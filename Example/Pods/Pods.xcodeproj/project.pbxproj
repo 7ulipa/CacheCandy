@@ -30,25 +30,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0898CF12AB4A657401506187F29E0823 /* Pods-CacheCandy_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-CacheCandy_Example.modulemap"; sourceTree = "<group>"; };
+		0898CF12AB4A657401506187F29E0823 /* Pods-CacheCandy_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-CacheCandy_Example.modulemap"; sourceTree = "<group>"; };
 		17174F8320545C1D6AC0AB5FB6DA9B73 /* Pods-CacheCandy_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CacheCandy_Example-umbrella.h"; sourceTree = "<group>"; };
 		1898D8BBE7776FC7CF7C53CEE9F41F7D /* Pods-CacheCandy_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CacheCandy_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1C315D0BFC9A638C4395540CE8BF1393 /* Pods-CacheCandy_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CacheCandy_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		20783555DC7D5EF6395CA55E2A40BEC6 /* CacheCandy.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = CacheCandy.modulemap; sourceTree = "<group>"; };
+		20783555DC7D5EF6395CA55E2A40BEC6 /* CacheCandy.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = CacheCandy.modulemap; sourceTree = "<group>"; };
 		23F26A1C75A85F83FD07CFA92A42EA4F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		26AB7BC1B5DD674604823DD9F71A6AB2 /* Pods_CacheCandy_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CacheCandy_Example.framework; path = "Pods-CacheCandy_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		26AB7BC1B5DD674604823DD9F71A6AB2 /* Pods_CacheCandy_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CacheCandy_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		29BD268EBB9933F272F686828F796273 /* Pods-CacheCandy_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CacheCandy_Tests-umbrella.h"; sourceTree = "<group>"; };
 		2BF74F5208ED11BBC3693274AB4C8BA7 /* Pods-CacheCandy_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CacheCandy_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2C5B47B5AF27A788A90BFE21DDF66A8F /* Pods-CacheCandy_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CacheCandy_Example-dummy.m"; sourceTree = "<group>"; };
-		3E9F67FC70138F7B5B6CC343980F260E /* Pods_CacheCandy_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CacheCandy_Tests.framework; path = "Pods-CacheCandy_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E9F67FC70138F7B5B6CC343980F260E /* Pods_CacheCandy_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CacheCandy_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		424AB67384828B07BBF582790AB450E4 /* CacheCandy-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CacheCandy-umbrella.h"; sourceTree = "<group>"; };
 		5E3D5EF8AB7D82972C6654B664BF1D97 /* Pods-CacheCandy_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CacheCandy_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		6783EFB243F11F5A62DC12C3CC665AD5 /* CacheCandy.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CacheCandy.xcconfig; sourceTree = "<group>"; };
 		76B97D90A22778867B306B7057844004 /* CacheCandy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CacheCandy.swift; sourceTree = "<group>"; };
 		8C326B233824D589178A34F60E5DA618 /* Pods-CacheCandy_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CacheCandy_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		8FFA724339DFEEC175D1310AE588BD4C /* CacheCandy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CacheCandy.framework; path = CacheCandy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9AF682E1C26AE403CA385179342C2282 /* Pods-CacheCandy_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-CacheCandy_Tests.modulemap"; sourceTree = "<group>"; };
+		8FFA724339DFEEC175D1310AE588BD4C /* CacheCandy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CacheCandy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9AF682E1C26AE403CA385179342C2282 /* Pods-CacheCandy_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-CacheCandy_Tests.modulemap"; sourceTree = "<group>"; };
 		9B32BD646C0A0679D2DD1B60B5707AF0 /* Pods-CacheCandy_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CacheCandy_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A7E6C8DF0590D493DBE619B4E055222F /* Pods-CacheCandy_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CacheCandy_Tests-resources.sh"; sourceTree = "<group>"; };
 		B26DF819273888C9025FBF613FCB8712 /* CacheCandy-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CacheCandy-dummy.m"; sourceTree = "<group>"; };
@@ -97,7 +97,6 @@
 			children = (
 				A7C3BCF864932E943E8FA43039BDE15E /* Classes */,
 			);
-			name = CacheCandy;
 			path = CacheCandy;
 			sourceTree = "<group>";
 		};
@@ -188,7 +187,6 @@
 			children = (
 				76B97D90A22778867B306B7057844004 /* CacheCandy.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -314,6 +312,17 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					6C6931635CB277CEBBB79CAAD1CF5EAC = {
+						LastSwiftMigration = 0820;
+					};
+					C375AB7FD04C0DBA2E96ADFED3DCB91B = {
+						LastSwiftMigration = 0820;
+					};
+					F9A8A159718F73B3C2F2F49DF27CFEBF = {
+						LastSwiftMigration = 0820;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -402,6 +411,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -502,6 +512,7 @@
 				PRODUCT_NAME = Pods_CacheCandy_Tests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -537,6 +548,7 @@
 				PRODUCT_NAME = Pods_CacheCandy_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -656,6 +668,7 @@
 				PRODUCT_NAME = Pods_CacheCandy_Tests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";

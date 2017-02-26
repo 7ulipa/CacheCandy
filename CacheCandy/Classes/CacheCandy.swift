@@ -10,7 +10,7 @@ import Foundation
 
 public protocol Cachable {
     func cost() -> Int
-    func writeTo(path: String)
+    func writeTo(_ path: String)
     init?(path: String)
 }
 
@@ -147,7 +147,7 @@ public class Cache <Key: CacheKey, Value: Cachable> {
     }
     
     private func addFileCache(_ value: Value, for key: Key) {
-        value.writeTo(path: pathFor(key: key))
+        value.writeTo(pathFor(key: key))
     }
     
     private func removeMemoryCache(for key: Key) {
