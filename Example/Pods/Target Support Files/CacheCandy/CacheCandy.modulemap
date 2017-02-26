@@ -1,0 +1,6 @@
+framework module CacheCandy {
+  umbrella header "CacheCandy-umbrella.h"
+
+  export *
+  module * { export * }
+}

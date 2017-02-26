@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CacheCandy_Example' do
+  pod 'CacheCandy', :path => '../'
+
+  target 'CacheCandy_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

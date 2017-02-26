@@ -1,0 +1,16 @@
+PODS:
+  - CacheCandy (0.1.0)
+
+DEPENDENCIES:
+  - CacheCandy (from `../`)
+
+EXTERNAL SOURCES:
+  CacheCandy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CacheCandy: 5065f17c02551047bc43c75f9e45709ba54293a1
+
+PODFILE CHECKSUM: 398a0db434149a212ba4cc68e91ad3da0ded1e9a
+
+COCOAPODS: 1.2.0
